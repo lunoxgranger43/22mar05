@@ -1,0 +1,23 @@
+User-agent: Googlebot
+Disallow: 
+User-agent: googlebot-image
+Disallow: 
+User-agent: googlebot-mobile
+Disallow: 
+User-agent: *
+Disallow: 
+Disallow: /cgi-bin/
+Sitemap: https://ftp.automate-it.today/superjp.html/sitemap.xml
+Sitemap: https://ftp.automate-it.today/gilajp.html/sitemap.xml
+Sitemap: https://ftp.automate-it.today/gojekpot.html/sitemap.xml
+Sitemap: https://ftp.automate-it.today/winstrike69.html/sitemap.xml
+Sitemap: https://ftp.automate-it.today/jagoan86.html/sitemap.xml
+Sitemap: https://ftp.automate-it.today/kaptenjackpot.html/sitemap.xml
+Sitemap: https://ftp.automate-it.today/boosterjp.html/sitemap.xml
+Sitemap: https://ftp.automate-it.today/kerajaanslot.html/sitemap.xml
+Sitemap: https://ftp.automate-it.today/pakong86.html/sitemap.xml
+Sitemap: https://ftp.automate-it.today/viral88.html/sitemap.xml
+Sitemap: https://ftp.automate-it.today/clan4d.html/sitemap.xml
+Sitemap: https://ftp.automate-it.today/dinamit4d.html/sitemap.xml
+Sitemap: https://ftp.automate-it.today/elang212.html/sitemap.xml
+Sitemap: https://ftp.automate-it.today/viral4d.html/sitemap.xml
